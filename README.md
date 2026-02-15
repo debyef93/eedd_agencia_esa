@@ -7,3 +7,8 @@ Deborah Geraldine Escudero Flores
 
 ## Descripción
 Proyecto para gestionar cuerpos celestes de la Agencia Espacial Europea.
+
+## Funcionalidades
+- Gestión de planetas
+- Gestión de satélites
+- Consulta de cuerpos celestes
