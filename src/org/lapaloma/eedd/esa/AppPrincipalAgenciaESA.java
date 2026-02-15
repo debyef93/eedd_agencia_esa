@@ -10,7 +10,7 @@ import org.lapaloma.eedd.esa.vo.CuerpoCeleste;
 /**
  * Clase principal que permite trabajar con entidades de la Agencia ESA (Agencia Europea del Espacio).
  * 
- * @author Isidoro Nevares Martín
+ * @author Deborah Geraldine Escudero Flores
  * @date 29 enero 2026
  */
 
@@ -23,7 +23,7 @@ public class AppPrincipalAgenciaESA {
 
         ICuerpoCelesteDAO interfazAlumno= null;
         int idCuerpo= 2;  // Se usará para buscar el cuerpo Celeste que tiene como identificador 2
-        System.out.println("Cuerpo celeste con identificador: " + idCuerpo + " [realizado por Isidoro Nevares Martín ]");
+        System.out.println("Cuerpo celeste con identificador: " + idCuerpo + " [realizado por Deborah Geraldine Escudero Flores ]");
 
         interfazAlumno = new CuerpoCelesteDaoArray();
         // Consultar de Cuerpo Celeste por ID
