@@ -12,3 +12,9 @@ Proyecto para gestionar cuerpos celestes de la Agencia Espacial Europea.
 -Java
 -Git
 -GitHub
+
+## Funcionalidades
+- Gestión de planetas
+- Gestión de satélites
+- Consulta de cuerpos celestes
+
